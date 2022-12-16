@@ -1,6 +1,6 @@
 name: rde_discovery
 description: Remote Development Environment Discovery service
-version: 1.0.0
+version: 0.0.0
 # homepage: https://www.example.com
 
 environment:
