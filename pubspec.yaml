@@ -1,0 +1,22 @@
+name: rde_discovery
+description: Remote Development Environment Discovery service
+version: 1.0.0
+# homepage: https://www.example.com
+
+environment:
+  sdk: '>=2.18.5 <3.0.0'
+
+dependencies:
+  leto_schema: ^0.0.1-dev.1
+  leto: ^0.0.1-dev.1
+  leto_shelf: ^0.0.1-dev.1
+  shelf: ^1.0.0
+  shelf_router: ^1.0.0
+  build_runner: ^2.3.2
+  yaml: ^3.1.1
+  path: ^1.8.3
+
+dev_dependencies:
+  leto_generator: ^0.0.1-dev.1
+  lints: ^2.0.0
+  test: ^1.16.0
